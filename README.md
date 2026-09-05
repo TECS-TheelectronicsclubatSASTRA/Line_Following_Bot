@@ -245,9 +245,10 @@ The threshold value (`1700`) is tuned for the specific track surface and lightin
 
 The chassis was custom-designed in **Fusion 360**.
 
-- 📐 [Chassis Sketch (DXF)](chassis/chassis-sketch.dxf)
-
-> 📎 *DWG file to be added here soon.*
+<p align="center">
+  <img src="images/chassis-image-1.jpeg" width="45%" />
+  <img src="images/chassis-image-2.jpeg" width="45%" />
+</p>
 
 ---
 
