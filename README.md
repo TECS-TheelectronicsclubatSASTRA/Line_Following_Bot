@@ -26,8 +26,6 @@
 13. [Results](#-results)
 14. [Known Limitations & Future Work](#-known-limitations--future-work)
 15. [Abbreviations](#-abbreviations)
-16. [License](#-license)
-
 ---
 
 ## 🧾 Abstract
