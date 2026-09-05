@@ -53,7 +53,7 @@ The system also includes **gap-tolerance logic** (to glide over short broken seg
 | 🕳️ **Gap Tolerance** | Bot continues straight through short line breaks (< 50 ms) instead of veering off |
 | 🔄 **Line-Recovery Pivot** | If the line is lost beyond the gap tolerance, the bot pivots in the direction of the last known error until it reacquires the line |
 | 🔋 **Isolated Power Domains** | Battery pack powers the motor driver directly; a buck converter steps down voltage for the ESP32 logic rail |
-| 🧩 **Custom Chassis** | Fully custom-modeled chassis designed in Fusion 360, exported as DXF for fabrication |
+| 🧩 **Custom Chassis** | Fully custom-modeled chassis designed in Fusion 360 |
 
 ---
 
