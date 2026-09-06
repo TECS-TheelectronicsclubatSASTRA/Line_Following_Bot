@@ -60,12 +60,12 @@ The system also includes **gap-tolerance logic** (to glide over short broken seg
 ## 🏗️ System Architecture
 
 ```
-┌────────────────────┐        Analog Voltage (x5)        ┌──────────────────────┐
-│  IR Tracker Module   │ ──────────────────────────────▶ │        ESP32          │
-│  (5 x IR Sensors)     │                                  │  (PID Control Logic)  │
+┌────────────────────┐        Analog Voltage (x5)         ┌──────────────────────┐
+│  IR Tracker Module │ ──────────────────────────────▶   |       ESP32           │
+│  (5 x IR Sensors)  │                                    │  (PID Control Logic) │
 └────────────────────┘                                    └──────────┬───────────┘
-                                                                       │ PWM + Direction Pins
-                                                                       ▼
+                                                                     │ PWM + Direction Pins
+                                                                     ▼
                                                           ┌────────────────────────┐
                                                           │     TB6612FNG            │
                                                           │   Dual Motor Driver      │
