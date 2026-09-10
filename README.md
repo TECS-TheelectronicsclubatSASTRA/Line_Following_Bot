@@ -37,7 +37,7 @@ The system also includes **gap-tolerance logic** (to glide over short broken seg
 ---
 
 <p align="center">
-  <img src="images/line-following-bt.jpeg" width="45%" />
+  <img src="images/line-following-bot.jpeg" width="45%" />
 </p>
 
 ---
